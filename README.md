@@ -1,2 +1,5 @@
-# Blooket-Hacks
-Blooket Le Hacks
+# Blooket-Modifications
+Blooket Le Modifications
+
+
+Only use with permission :)
